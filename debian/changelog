@@ -1,3 +1,11 @@
+libv8-3.14 (3.14.5.8-8.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Add README.Debian.security documenting the lack of security support for
+    this package for jessie (closes: #775715).
+
+ -- Michael Gilbert <mgilbert@debian.org>  Fri, 13 Feb 2015 05:59:08 +0000
+
 libv8-3.14 (3.14.5.8-8) unstable; urgency=medium
 
   * Add 0004_hurd.patch, add Architecture: hurd-i386.
